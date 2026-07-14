@@ -1,1 +1,1 @@
-# sdlc-sample-project
+# sdlc-sample-project demo purpose
